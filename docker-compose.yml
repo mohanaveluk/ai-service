@@ -20,7 +20,7 @@ services:
 
   db-prod:
     image: mysql:8.0
-    container_name: college-db
+    container_name: ai-service-db
     environment:
       MYSQL_ROOT_USER: adminvoice
       MYSQL_ROOT_PASSWORD: 'psql$voice'
