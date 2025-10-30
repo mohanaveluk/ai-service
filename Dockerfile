@@ -32,7 +32,7 @@ COPY --from=builder /app/package*.json ./
 #COPY --from=builder /app/src/database/migrations ./dist/database/migrations
 
 # Install only production dependencies
-RUN npm install --only=production
+RUN npm install --only=production --omit=dev --legacy-peer-deps
 
 # Create the logs directory and set permissions
 #RUN mkdir -p /app/logs && chown -R node:node /app/logs
