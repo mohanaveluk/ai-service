@@ -11,7 +11,7 @@ COPY package*.json ./
 COPY . .
 
 # Install dependencies
-RUN npm install
+RUN npm install --legacy-peer-deps
 
 # Build the NestJS application
 RUN npm run build
