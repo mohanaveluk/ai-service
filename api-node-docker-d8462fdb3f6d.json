@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "thematic-fort-313314",
+  "private_key_id": "f5090f7b0c2521d9e4677aa20e08779ca80f2a45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnNQnbrNb/p7gl\n+iwni2qPI9D8781xESamGlLXS+j9LcWyiHPuqW33Rv1qEEcufq8R4Z50WGw//F2f\nsAl0Km5v4QPpxVYHtZVVB+fcxz39HFlZwmO+KlbZHa5P6vzVKI9MpGYYU5PUyIET\n2sUnvYyRW4iluqDkddlGZfI9ERtPpdOIQipMHxCmqfTv6y04wm6L347K+B9bHRJW\nGsnywHHx1VGe+J7+NmPY+tl3q0YzLOsvFivoshva/2aKMS7fsU0d0T8Dy/RxQ+kq\nsn5Pdh7aLa6x35LGAzwrTZoBCtWVJktaIpTU2+5At29oTPz6cvt6otV5ocxD/o5p\nN/tAmL9FAgMBAAECggEAD9F8tUOMs3LygOVB+BvAYPpKcyNclC3DMkObQrLzv7/s\nzA8MqK9ur84Pe1E+6q8hcNefXfJfi04crVbCDjNVb1AiRqNcmC4dioXM8Z4Hx0I/\nUbaKKRtoS/H646Sfdqr3o5CJ+BMwERlG3NH9hNzxx26ZZtRZFEPx4i8S06QiqU4n\no3fRMAaB0U8x7EV6e7W/a7D5/bY4UKmbhW28tm9FCSARnPddy9O8H4i+jgzGsOyl\nZf138GtgyW13bCXlLczuow+QoicAJT8QC4fWjoaJPN39qB5HLjcH7TSRZHTWIcKB\nbHjUUbrBTVSuHdk2TW52dfDw8+umTLE+VRHscdvvAQKBgQDU08evteqMfA5E1ix+\nQmiZZBpBvk0uNf2OPMoaB/4EyBKT5Hnbh2lqyY7yL12nYTdQB/+Dqudj4JANyD6Z\n/tLigBxCYv/FAdYtlko3sut/MolxYbFvCGY1JaMNzUvo/oQuCfRFwp8C2ntPjsjF\nVvhZDZ4FJdKxhybCuIIsTJTgmQKBgQDJIC+iO2EIoiSjZ7nHr/uPumrjZoG7rcwa\nGuoy4gG0fxp+bdHkCL1zJQWVFPc1311liBXAcS9q0I5cp6HtlSNFSjWo/E/jnbTd\nKmDsK7DzapBQ4VwVWe4If7MxpsVsezCusoYkWp3owNOZomFcsNNUnkL1yI2b4TKC\nbaTmP/lDjQKBgFCuvLv7HiEGAq7L9vAiot7L2TxlNYM4Sph6qS93KjCL3Kcebafw\nzOED6mIb3MhQjZSUg6RZzQDLKDFhYYIl3bKqWIw+VbJNAPIlUJuPA8Ij2YEXRRnP\nuFebnhXkZ0u7+UYu1eEAaCG/zBGcErblQp8YD3jqHtbYYrRdGFRM7/+5AoGAM2dk\nhURD4p7+Wj0ygFT8KJnuo7wZQEyFM87ZOLQG14j8zn9m+684LGuz54x6OmyiREbp\nuEu1YMl4+Tlm64AIibcTy+Lg0D4IcdZY+0OXcD82L1XJ4TMg4U8yD2ieYMGDicLb\nAgOfBFP0QPn9hGE1QhVI6+ScPNDrxeYcFTUYkikCgYEAw+A5UFXurH+6bODAD0Vb\ntva0mKkFlqeiP2sJPCRFeilIgIAlKMGCdLnptQ6ra/CyQPHCkHL4xWywMGxmvR9i\nCaBa6no1cscXffCJTtBWe/CUw91J5Q2mWTVY+QjmvB/OisL3osGGcP7lFu5XODmS\nWUdOcEgoBF8I1uWjBO2Uab0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "opendentalexternaldocuments@thematic-fort-313314.iam.gserviceaccount.com",
+  "client_id": "100553668021921109302",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/opendentalexternaldocuments%40thematic-fort-313314.iam.gserviceaccount.com"
+}
+
+
