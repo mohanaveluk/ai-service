@@ -12,10 +12,10 @@ COPY . .
 
 
 # Install dependencies
-RUN npm install
+RUN npm install --legacy-peer-deps
 
 # Build the NestJS application
-RUN npm run build
+RUN npm run build 
 
 # Stage 2: Create the production image
 FROM node:18-alpine
